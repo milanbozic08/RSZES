@@ -1,0 +1,8 @@
+Jovan;Dragutinovic;ee38;10,10,10
+Stefan;Sredojevic;ee58;10,20,10
+Rade;Kornjaca;ee32;10,10,10
+RAde;Kornjaca;ee32;10,20,30
+Bojan;Nikolic;ee12;10,10,10
+Dragan;Railic;ee13;10,20,20
+Milan;Bodic;ee123;10,10,10
+Milan;Bozic;EE55;10,10,5

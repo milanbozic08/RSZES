@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1541501796 source:c:\users\bozic\desktop\rszes\zadatakstudenti\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Struktura.h"
+	"FileFnc.h"
+	"StructFnc.h"
+
+1541432799 c:\users\bozic\desktop\rszes\zadatakstudenti\struktura.h
+
+1541497709 c:\users\bozic\desktop\rszes\zadatakstudenti\filefnc.h
+
+1541498231 source:c:\users\bozic\desktop\rszes\zadatakstudenti\filefnc.c
+	<stdio.h>
+	"Struktura.h"
+	<stdlib.h>
+	<string.h>
+
+1541501796 source:c:\users\bozic\desktop\rszes\zadatakstudenti\structfnc.c
+	"Struktura.h"
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+
+1541501420 c:\users\bozic\desktop\rszes\zadatakstudenti\structfnc.h
+
